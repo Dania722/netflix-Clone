@@ -1,6 +1,8 @@
 # Netflix Clone
 Netflix Clone where you can  watch out the trailor  , the TMDB data has been use to get the data of all the shows , moives etcs 
 
+Here is the live link : https://netflix-clone-62f79.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
